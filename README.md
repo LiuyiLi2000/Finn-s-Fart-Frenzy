@@ -4,4 +4,6 @@ The goal: fart stealthily enough to stay undetected, yet powerful enough to knoc
 
 Includes two playable levels. Built in Unity for fun and testing purposes.
 
-Link: https://liuyili2000.itch.io/finns-fart-frenzy
+Playble Link: https://liuyili2000.itch.io/finns-fart-frenzy
+
+Game Trailer: https://youtu.be/H9sfmWenfL8
